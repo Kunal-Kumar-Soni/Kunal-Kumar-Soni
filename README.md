@@ -1,5 +1,6 @@
 # 💫 About Me:
-Frontend Developer | JavaScript, TypeScript, React.js, Next.js
+Frontend Developer with hands-on experience in React.js and Next.js, focused on building clean, production-ready user
+interfaces and real-world web applications.
 
 
 ## 🌐 Socials:
