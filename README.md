@@ -29,7 +29,6 @@
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kunal-kumar-soni&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kunal-kumar-soni&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="50%" alt="GitHub Streak" />
 </p>
-
 
