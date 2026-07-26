@@ -1,16 +1,12 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kunal Kumar Soni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Typing SVG"/>
-</div>
-
-
-
-
 ## About Me
 
-<p align="center">
-Full Stack Developer building modern and scalable web applications with React.js and TypeScript on the frontend, and Node.js, Express.js, MongoDB, and Redis on the backend, with AWS for cloud infrastructure and deployment.
+<div align="center">
+
+<p>
+  I'm a Full Stack Developer working with React.js and TypeScript on the frontend, and Node.js, Express.js, MongoDB, and Redis on the backend. I also use AWS for cloud services and deployment.
 </p>
+
+</div>
 
 ## Connect with me
 
@@ -24,34 +20,8 @@ Full Stack Developer building modern and scalable web applications with React.js
 
 ## Tech Stack
 
-<h3 align="center">Frontend Development</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
-</p>
-
-<br/>
-
-<h3 align="center">Backend Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<br/>
-
-<h3 align="center">Database & Cache</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,prisma" />
-</p>
-
-<br/>
-
-<h3 align="center">Tools & Cloud</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redis,prisma,git,github,aws,vercel&perline=7" />
 </p>
 
 
